@@ -1,33 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Academic</title>
+    <title>Publications on HOLENDRO SINGH CHUNGKHAM</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Academic</description>
+    <description>Recent content in Publications on HOLENDRO SINGH CHUNGKHAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <copyright>&amp;copy; 2017 Holendro Singh Chungkham</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
+      <title>Physical occupational exposures and health expectancies in a French occupational cohort</title>
       <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
+      <title>Psychosocial work characteristics, sleep disturbances, and risk of subsequent depression: A study of time-varying effect modification</title>
+      <link>/publication/clothing/</link>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/clothing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purchases of prescription antidepressants in the Swedish population in relation to major workplace downsizing</title>
       <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threat of dismissal and symptoms of major depression: a study using repeat measures in the Swedish working population</title>
+      <link>/publication/clothing2/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/clothing2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of sleep disturbances in the longitudinal relationship between psychosocial working conditions, measured by work demands and support, and depression</title>
+      <link>/publication/clothing1/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/clothing1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A longitudinal analysis of confirmatory factor structure and measurement invariance of the demand control support model: an evidence from SLOSH</title>
+      <link>/publication/clothing3/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/clothing3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inpatient Length of Stay: A finite mixture modeling analysis</title>
+      <link>/publication/ejhe/</link>
+      <pubDate>Tue, 12 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ejhe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public-private differential in healthcare and healthcare cost in India: the case of inpatients</title>
+      <link>/publication/ijph/</link>
+      <pubDate>Sun, 05 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ijph/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -29,11 +29,11 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
+  name = "Internal"
   tag = ".deep-learning"
 
 [[filter]]
-  name = "Other"
+  name = "External"
   tag = ".demo"
 
 +++

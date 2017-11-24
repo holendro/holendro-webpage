@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/publication/person-re-identification/</loc>
+      <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/clothing/</loc>
+      <lastmod>2017-01-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -50,7 +68,7 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
+      <loc>/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +77,7 @@
     
     <url>
     
-      <loc>/project/example-external-project/</loc>
+      <loc>/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,8 +131,17 @@
     
     <url>
     
-      <loc>/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <loc>/publication/clothing-search/</loc>
+      <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/clothing2/</loc>
+      <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -131,8 +158,8 @@
     
     <url>
     
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>/publication/clothing1/</loc>
+      <lastmod>2014-03-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -140,9 +167,26 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>/publication/clothing3/</loc>
+      <lastmod>2013-08-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/ejhe/</loc>
+      <lastmod>2009-05-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/ijph/</loc>
+      <lastmod>2009-04-05T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -151,7 +195,26 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -170,26 +233,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
+      <loc>/tags/healthy-life-expectancy/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -230,7 +274,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-03-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

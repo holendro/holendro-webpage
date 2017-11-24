@@ -1,9 +1,9 @@
 +++
-title = "Mobile visual clothing search"
-date = "2013-07-01"
+title = "Purchases of prescription antidepressants in the Swedish population in relation to major workplace downsizing"
+date = "2016-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ["Magnusson Hanson LL", "Westerlund H", "Chungkham HS", "Vahtera J", "Sverke M", "Alexanderson K"]
 
 # Publication type.
 # Legend:
@@ -14,15 +14,15 @@ authors = ["GA Cushen", "MS Nixon"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "In *Epidemiology*, Wolters Kluwer."
+publication_short = "In *Epidemiology*"
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = "Organizational downsizing may be a risk factor for morbidity among both the displaced and those who remain in work. However, the knowledge is limited regarding its impact on clinically relevant mental health problems. Our objective was to investigate purchases of prescription antidepressants across 5 years in relation to workplace downsizing. We studied all Swedish residents 2004 throughout 2010, 22-54 years old in 2006, gainfully employed, and with a stable labor market position up to 2006. People primarily employed at a workplace with ≥18% staff reduction were considered exposed to major downsizing (in 2006-2007, 2007-2008, or 2008-2009). We applied repeated measures regression analyses through generalized estimating equations, calculating odds of any purchase of prescription antidepressants (inferred from the prescribed drug register) within five 12-month periods from 2 years before to 2 years after the period of major downsizing and compared the trends for newly exposed (n = 632,500) and unexposed (n = 1,021,759) to major downsizing. The odds of purchasing prescription antidepressants for exposed increased more than for nonexposed, mainly peridownsizing (1 year before to 1 year after), and postdownsizing (1 year after to 2 years after) for survivors (odds ratio 1.24 vs. 1.14 peridownsizing and 1.12 vs. 1.00 postdownsizing) and those changing workplace (odds ratio 1.22 vs. 1.14 peridownsizing and 1.10 vs. 1.00 postdownsizing) with no previous sickness absence or disability pension (≥7% more than unexposed peri- and postdownsizing). This large-scale study indicates that downsizing is associated with a slight increase in the odds of purchasing prescription antidepressants among people without previous sickness absence or disability pension."
+abstract_short = "This study explores the relationship between organizational downsizing and purchase of antidepressants in Sweden using the larges scale registered data. This study found a slight increase in the odds of purchasing antidepressants among people without previous sickness absence and disability pension. The results were drawn by applying the GEE modeling strategy to longitudinal data."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -36,8 +36,8 @@ selected = true
 projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "pdf/Antidepressant_epidy.pdf"
+url_preprint = "pdf/Antidepressant_epidy.pdf"
 url_code = "#"
 url_dataset = "#"
 url_project = "#"
@@ -48,7 +48,7 @@ url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Journal Link", url = "http://journals.lww.com/epidem/Abstract/2016/03000/Purchases_of_Prescription_Antidepressants_in_the.13.aspx"}]
 
 # Does the content use math formatting?
 math = true
@@ -63,5 +63,3 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
