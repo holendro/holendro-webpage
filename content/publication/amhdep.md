@@ -1,9 +1,9 @@
 +++
-title = "Hospital organizational factors influence work-family conflict in registered nurses: multilevel modelling of a nation-wide cross-sectional survey in Sweden"
-date = "2014-05-01"
+title = "The impact of involuntary job loss in later life on the risk of major depression and being prescribed anti-depressant medication"
+date = "2015-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Leineweber C", "Chungkham HS", "Westerlund H", "Tishelman C", "Lindqvist R"]
+authors = ["Hyde M", "Magnusson Hanson LL", "Chungkham HS", "Leineweber C", "Westerlund H"]
 
 # Publication type.
 # Legend:
@@ -17,12 +17,12 @@ authors = ["Leineweber C", "Chungkham HS", "Westerlund H", "Tishelman C", "Lindq
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Journal of Nursing Studies*, Elsevier."
-publication_short = "In *IJNS*"
+publication = "In *Aging and Mental Health*, Taylor & Francis."
+publication_short = "In *Aging and Mental Health*"
 
 # Abstract and optional shortened version.
-abstract = "**Background** The present shortage of registered nurses (RNs) in many European countries is expected to continue and worsen, which poses a substantial threat to the maintenance of healthcare in this region. Work–family conflict is a known risk factor for turnover and sickness absence. **Objective** This paper empirically examines whether the nurse practice environment is associated with experienced work–family conflict. **Design** A multilevel model was fit with the individual RN at the 1st, and the hospital department at the 2nd level using cross-sectional RN survey data from the Swedish part of RN4CAST, an EU 7th framework project. The data analyzed here is based on a national sample of 8356 female and 592 male RNs from 369 hospital departments. **Results** We found that 6% of the variability in work–family conflict experienced by RNs was at the department level. Organizational level factors significantly accounted for most of the variability at this level with two of the work practice environment factors examined, staffing adequacy and nurse involvement in hospital affairs, significantly related to work–family conflict. Due to the design of the study, factors on ward and work group levels could not be analyzed, but are likely to account for additional variance which in the present analysis appears to be on the individual level, with private life factors likely explaining another major part. **Conclusion** These results suggest that higher level organizational factors in health care have a significant impact on the risk of work–family conflict among RNs through their impact on the nurse practice environment. Lower level organizational factors should be investigated in future studies using hierarchical multilevel sampling."
-abstract_short = "This paper empirically examines whether the nurse practice environment is associated with experienced work–family conflict. A multilevel model was fit with the individual RN at the 1st, and the hospital department at the 2nd level using cross-sectional RN survey data from the Swedish part of RN4CAST, an EU 7th framework project. The results suggest that higher level organizational factors in health care have a significant impact on the risk of work–family conflict among RNs through their impact on the nurse practice environment."
+abstract = "**Objectives:** Involuntary employment exit in later life has been shown to be a risk factor for poor physical and mental health. This study aims to examine the relationship between involuntary employment exit in later life and subsequent risk of reporting major depression or being prescribed anti-depressant medication (ADM). **Method:** Data were drawn from four waves of the Swedish Longitudinal Occupational Survey of Health (SLOSH). **Results:** After controlling for socio-demographic variables, health, health behaviours, and baseline depression, involuntary employment exit was associated with an increased risk of reporting major depression (OR 3.16; CI 1.32–7.61) and becoming newly prescribed ADM (HR 2.08; CI 1.03–4.21) compared to voluntary employment exit. **Conclusion:** Involuntary employment exit represents a risk for subsequent depression in later life. Mental health and social services ought to consider identifying these individuals for possible intervention programs to reduce the burden of depression in later life."
+abstract_short = "This paper examines the relationship between involuntary exit from work and mental health. The result shows that involuntary exit increases the risk of depression in later life suggesting for a possible intervention programme to reduce the burden of disease."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -48,7 +48,7 @@ url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal Link", url = "http://www.journalofnursingstudies.com/article/S0020-7489(13)00271-X/fulltext"}]
+url_custom = [{name = "Journal Link", url = "http://www.tandfonline.com/doi/abs/10.1080/13607863.2014.927821"}]
 
 # Does the content use math formatting?
 math = true
