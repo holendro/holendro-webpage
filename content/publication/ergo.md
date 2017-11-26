@@ -1,5 +1,5 @@
 +++
-title = "“Office design impact on sick leave rates"
+title = "Office design impact on sick leave rates"
 date = "2014-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
