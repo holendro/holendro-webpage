@@ -211,6 +211,11 @@ defaultContentLanguageInSubdir = false
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/hs_chungkham"
+    
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://in.linkedin.com/in/dr-holendro-singh-chungkham-46868311"
 
   [[params.social]]
     icon = "google-scholar"
