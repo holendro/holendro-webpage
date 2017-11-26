@@ -32,6 +32,15 @@
     
     <url>
     
+      <loc>/publication/ijnsschedule/</loc>
+      <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -68,7 +77,43 @@
     
     <url>
     
+      <loc>/publication/plosburn/</loc>
+      <lastmod>2014-05-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/ijnswfc/</loc>
+      <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/ploscasp/</loc>
+      <lastmod>2014-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/clothing1/</loc>
+      <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/sjwehwfc/</loc>
       <lastmod>2014-03-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -97,6 +142,15 @@
     
       <loc>/publication/ijph/</loc>
       <lastmod>2009-04-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/psp/</loc>
+      <lastmod>2005-12-20T00:00:00+00:00</lastmod>
     </url>
     
   

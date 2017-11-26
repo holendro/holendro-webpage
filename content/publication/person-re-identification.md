@@ -41,10 +41,14 @@ url_preprint = "pdf/PhysicalHALE_oem.pdf"
 url_code = "#"
 url_dataset = "#"
 url_project = "http://www.idear-net.net/"
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+url_slides = "#"
+url_video = "#"
+url_poster = "#"
+url_source = "#"
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "Journal Link", url = "https://doi.org/10.1136/oemed-2016-103804"}]
 
 # Does the content use math formatting?
 math = true
