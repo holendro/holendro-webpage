@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Work and Health in India</title>
+      <link>/publication/weshieds/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/weshieds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work, Stress and Health: Theories and Models</title>
+      <link>/publication/weshichapter/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/weshichapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Physical occupational exposures and health expectancies in a French occupational cohort</title>
       <link>/publication/person-re-identification/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
@@ -125,24 +143,6 @@
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
       
       <guid>/publication/ijnswfc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quality of life amongst older Brazilians: A cross-cultural validation of the CASP-19 into Brazilian-Portuguese</title>
-      <link>/publication/ploscasp/</link>
-      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ploscasp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The role of sleep disturbances in the longitudinal relationship between psychosocial working conditions, measured by work demands and support, and depression</title>
-      <link>/publication/clothing1/</link>
-      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/clothing1/</guid>
       <description></description>
     </item>
     

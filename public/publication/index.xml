@@ -11,6 +11,24 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Work and Health in India</title>
+      <link>/publication/weshieds/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/weshieds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work, Stress and Health: Theories and Models</title>
+      <link>/publication/weshichapter/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/weshichapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Physical occupational exposures and health expectancies in a French occupational cohort</title>
       <link>/publication/person-re-identification/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>/publication/clothing1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Work-to-home interference and its prospective relation to major depression and treatment with antidepressants using the Swedish Longitudinal and Occupational Survey of Health (SLOSH)</title>
-      <link>/publication/sjwehwfc/</link>
-      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/sjwehwfc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A longitudinal analysis of confirmatory factor structure and measurement invariance of the demand control support model: an evidence from SLOSH</title>
-      <link>/publication/clothing3/</link>
-      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/clothing3/</guid>
       <description></description>
     </item>
     
