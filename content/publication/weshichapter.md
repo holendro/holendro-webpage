@@ -17,7 +17,7 @@ authors = ["Magnusson Hanson LL", "Hyde M", "Chungkham HS", "Westerlund H"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Policy Press*, University of Bristol (UK)."
+publication = "In *Work and Health in India*, Policy Press, University of Bristol (UK)."
 publication_short = "In *Policy Press*"
 
 # Abstract and optional shortened version.

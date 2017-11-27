@@ -17,7 +17,7 @@ authors = ["Hyde M", "Chungkham HS", "Ladusingh L"]
 publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Policy Press*, University of Bristol (UK)."
+publication = "In *Work and Health in India*, Policy Press, University of Bristol (UK)."
 publication_short = "In *Policy Press*"
 
 # Abstract and optional shortened version.
@@ -59,7 +59,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "weshi.jpg"
+image = ""
 caption = ""
 
 +++
