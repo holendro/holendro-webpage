@@ -13,7 +13,7 @@ weight = 1
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bg.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/sydney.jpg"  # Image path relative to your `static/img/` folder.
   
 +++
 
